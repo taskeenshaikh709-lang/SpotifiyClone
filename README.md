@@ -16,6 +16,3 @@ A  Spotify Clone website built using HTML, CSS, and JavaScript.
 ## Author
 Taskeen Shaikh
 CSE (Data Science) Student
-
-## Project Status
-Currently under development.

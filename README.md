@@ -1,6 +1,6 @@
 # Spotify Clone
 
-A responsive Spotify Clone website built using HTML, CSS, and JavaScript.
+A  Spotify Clone website built using HTML, CSS, and JavaScript.
 
 ## Features
 - Modern Spotify-inspired UI
